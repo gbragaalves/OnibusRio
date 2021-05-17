@@ -1,0 +1,13 @@
+name: CarrosPorLinha
+title: CarrosPorLinha
+username:
+account: gbragaalves
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4143190
+bundleId: 4607571
+url: https://gbragaalves.shinyapps.io/CarrosPorLinha/
+when: 1621260767.37924
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: MediasLinhas_01_2015.csv|MediasLinhas_01_2016.csv|MediasLinhas_01_2017.csv|MediasLinhas_01_2018.csv|MediasLinhas_01_2019.csv|MediasLinhas_01_2020.csv|MediasLinhas_01_2021.csv|MediasLinhas_02_2015.csv|MediasLinhas_02_2016.csv|MediasLinhas_02_2017.csv|MediasLinhas_02_2018.csv|MediasLinhas_02_2019.csv|MediasLinhas_02_2020.csv|MediasLinhas_02_2021.csv|MediasLinhas_03_2015.csv|MediasLinhas_03_2016.csv|MediasLinhas_03_2017.csv|MediasLinhas_03_2018.csv|MediasLinhas_03_2019.csv|MediasLinhas_03_2020.csv|MediasLinhas_03_2021.csv|MediasLinhas_04_2016.csv|MediasLinhas_04_2017.csv|MediasLinhas_04_2018.csv|MediasLinhas_04_2019.csv|MediasLinhas_04_2020.csv|MediasLinhas_04_2021.csv|MediasLinhas_05_2015.csv|MediasLinhas_05_2016.csv|MediasLinhas_05_2017.csv|MediasLinhas_05_2018.csv|MediasLinhas_05_2019.csv|MediasLinhas_05_2020.csv|MediasLinhas_06_2015.csv|MediasLinhas_06_2016.csv|MediasLinhas_06_2017.csv|MediasLinhas_06_2018.csv|MediasLinhas_06_2019.csv|MediasLinhas_06_2020.csv|MediasLinhas_07_2015.csv|MediasLinhas_07_2016.csv|MediasLinhas_07_2017.csv|MediasLinhas_07_2018.csv|MediasLinhas_07_2019.csv|MediasLinhas_07_2020.csv|MediasLinhas_08_2015.csv|MediasLinhas_08_2016.csv|MediasLinhas_08_2017.csv|MediasLinhas_08_2018.csv|MediasLinhas_08_2019.csv|MediasLinhas_08_2020.csv|MediasLinhas_09_2015.csv|MediasLinhas_09_2016.csv|MediasLinhas_09_2017.csv|MediasLinhas_09_2018.csv|MediasLinhas_09_2019.csv|MediasLinhas_09_2020.csv|MediasLinhas_10_2015.csv|MediasLinhas_10_2016.csv|MediasLinhas_10_2017.csv|MediasLinhas_10_2018.csv|MediasLinhas_10_2019.csv|MediasLinhas_10_2020.csv|MediasLinhas_11_2015.csv|MediasLinhas_11_2016.csv|MediasLinhas_11_2017.csv|MediasLinhas_11_2018.csv|MediasLinhas_11_2019.csv|MediasLinhas_11_2020.csv|MediasLinhas_12_2015.csv|MediasLinhas_12_2016.csv|MediasLinhas_12_2017.csv|MediasLinhas_12_2018.csv|MediasLinhas_12_2019.csv|MediasLinhas_12_2020.csv
