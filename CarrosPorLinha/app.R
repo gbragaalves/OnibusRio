@@ -14,8 +14,8 @@ library(shiny)
 library(plotly)
 library(lubridate)
 
-BusPorLinha <- read.csv2("D:/Onibus/Onibus Municipais do Rio de Janeiro/Dados/CarrosPorLinha/MediasLinhas.csv",stringsAsFactors = FALSE)
-ListaLinhas <- read.csv2("ListaLinhas.csv",stringsAsFactors = FALSE)
+BusPorLinha <- read.csv2("./MediasLinhas.csv",stringsAsFactors = FALSE)
+ListaLinhas <- read.csv2("./ListaLinhas.csv",stringsAsFactors = FALSE)
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
@@ -23,7 +23,7 @@ ui <- fluidPage(
         sidebarPanel(width = 2,
             selectInput("select", 
                         label = "Selecione uma Linha:", 
-                        choices = ListaLinhas$Linha, 
+                        choices = ListaLinhas$linha, 
                         selected = "397"),
         ),
         
