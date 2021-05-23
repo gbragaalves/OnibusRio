@@ -55,7 +55,7 @@ server <- function(input, output) {
             fig <- plot_ly(BusPorLinha, x = ~DataCompleta, y = BusPorLinha[[valor]], type = "scatter", mode = 'lines')
             fig <- fig %>% layout(title = 'Quantidade de Onibus em Circulacao no Rio de Janeiro',
                                   xaxis = list(zeroline = TRUE, title = 'Dia / Hora', range = c(min_Date_ms, max_Date_ms)),
-                                  yaxis = list(title = 'Quantidade'))
+                                  yaxis = list(rangemode = "tozero", title = 'Quantidade'))
             fig
             
         })
