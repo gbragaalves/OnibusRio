@@ -1,0 +1,14 @@
+name: Lambda deploy
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Deploy
+      uses: mariamrf/py-lambda-action@v0.0.2 
